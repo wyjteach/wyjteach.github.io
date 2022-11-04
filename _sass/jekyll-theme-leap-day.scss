@@ -196,6 +196,7 @@ header {
   }
 }
 
+//原来的黄色半窗口横幅是该模板的github库链接和下载
 #banner {
   z-index: 100;
   left:0;
@@ -288,7 +289,7 @@ section {
   width:1000px;//修改页面宽度
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
-  margin-top: 140px;
+  margin-top: 100px;//原190px
   position:relative;
   background: #fbfbfb;
   border-radius: 3px;
@@ -305,7 +306,7 @@ small {
 nav {
   width: 230px;
   position: fixed;
-  top: 170px;
+  top: 170px;//原220px
   left:50%;
   margin-left:-580px;
   text-align: right;
