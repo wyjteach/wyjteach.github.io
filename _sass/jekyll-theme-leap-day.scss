@@ -174,7 +174,7 @@ header {
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
-  min-height: 76px;
+  min-height: 50px;//网页头横幅的高度
 
   h1 {
     font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -289,7 +289,7 @@ section {
   width:1000px;//修改页面宽度
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
-  margin-top: 110px;//原190px 将Banner注释以后不显示Banner,将页面内容网上拉
+  margin-top: 120px;//原190px 将Banner注释以后不显示Banner,将页面内容网上拉
   position:relative;
   background: #fbfbfb;
   border-radius: 3px;
