@@ -23,7 +23,7 @@
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
       </header>
 
-      <!--
+      <!--  原来网页模板主题的网页头部黄色的github下载按钮不显示
       <div id="banner">
         <span id="logo"></span>
 
@@ -48,12 +48,15 @@
         {{ content }}
 
       </section>
+
+      <!--   页脚原来模板的项目维护信息不显示
       <footer>
         {% if site.github.is_project_page %}
           <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
       </footer>
+      -->
     </div>
   </body>
 </html>
