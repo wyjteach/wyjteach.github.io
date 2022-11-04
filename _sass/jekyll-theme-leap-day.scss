@@ -286,7 +286,7 @@ header {
 }
 //网页主页面设置
 section {
-  width:70%;//原680px 修改页面宽度
+  width:1000px;//原680px 修改页面宽度
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
   margin-top: 140px; //原190px 将Banner注释以后不显示Banner,将页面内容网上拉
@@ -308,7 +308,7 @@ nav {
   position: fixed;
   top: 170px;//原220px 导航顶部距离网页顶端的距离
   left:50%;
-  margin-left:-600px;//原-580px  导航栏左上角的水平坐标 原点水平是中点
+  margin-left:-700px;//原-580px  导航栏左上角的水平坐标 原点水平是中点
   text-align: right;
 
   ul {
