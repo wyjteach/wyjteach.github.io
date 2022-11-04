@@ -305,11 +305,11 @@ small {
 
 //左侧导航栏属性设置
 nav {
-  width: 300px;//原230 导航标题的宽度
+  width: 360px;//原230 导航标题的宽度
   position: fixed;
   top: 170px;//原220px 导航顶部距离网页顶端的距离
   left:50%;
-  margin-left:-700px;//原-580px  导航栏左上角的水平坐标 原点水平是中点
+  margin-left:-750px;//原-580px  导航栏左上角的水平坐标 原点水平是中点
   text-align: right;
 
   ul {
