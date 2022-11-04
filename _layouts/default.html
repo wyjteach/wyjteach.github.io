@@ -16,14 +16,13 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <!--
       <header>
-        <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+        <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>  <!--//调用github的库变量显示，也可以自己按html写其他内容-->
         <br />
-        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p> <!--//调用github的库变量显示，也可以自己按html写其他内容-->
       </header>
 
-  
+     <!--
       <div id="banner">
         <span id="logo"></span>
 
@@ -38,7 +37,7 @@
           </div>
         {% endif %}
       </div>
-    -->
+      -->
 
     <div class="wrapper">
       <nav>
