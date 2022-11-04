@@ -70,7 +70,7 @@ strong {
 }
 
 .wrapper {
-  width:650px;//修改页面起点
+  width:650px;
   margin:0 auto;
   position:relative;
 }
@@ -285,7 +285,7 @@ header {
 }
 
 section {
-  width:590px;
+  width:1060px;//修改页面宽度
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
   margin-top: 190px;
@@ -365,7 +365,7 @@ footer {
   line-height: 16px;
 }
 
-@media print, screen and (max-width: 2000px) {
+@media print, screen and (max-width: 1060px) {
 
   div.wrapper {
     width:auto;
