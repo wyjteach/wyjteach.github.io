@@ -2,6 +2,8 @@
 layout: default
 ---
 
+机器学习课程正在筹备中，面向高年级与数学基础较好的低年级本科生。课程内容借鉴世界一流大学的课程。
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
