@@ -70,7 +70,7 @@ strong {
 }
 
 .wrapper {
-  width:650px;//修改页面宽度
+  width:650px;//修改页面起点
   margin:0 auto;
   position:relative;
 }
@@ -368,7 +368,7 @@ footer {
 @media print, screen and (max-width: 1060px) {
 
   div.wrapper {
-    width:auto;
+    width:100%;  //修改页面宽
     margin:0;
   }
 
