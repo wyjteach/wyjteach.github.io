@@ -365,10 +365,10 @@ footer {
   line-height: 16px;
 }
 
-@media print, screen and (max-width: 2060px) {
+@media print, screen and (max-width: 1500px) {
 
   div.wrapper {
-    width:2060px;  //修改页面宽
+    width:auto;
     margin:0;
   }
 
