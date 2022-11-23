@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-讲座列表
+模板原来首页的格式语法
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
