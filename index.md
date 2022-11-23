@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[讲座列表](https://wyjteach.github.io/topic_lecture)
+[**讲座列表**](https://wyjteach.github.io/topic_lecture)
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
