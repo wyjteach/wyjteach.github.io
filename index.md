@@ -4,7 +4,7 @@ layout: default
 
 机器学习笔记
 
-[网页语法](./topic_lecture.html)
+[网页语法](https://wyjteach.github.io/topic_lecture.html)
 
 # 1. 研究体系
 
